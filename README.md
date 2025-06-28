@@ -1,0 +1,2 @@
+# Ai-internship
+small tasks 
